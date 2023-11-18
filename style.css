@@ -1,0 +1,48 @@
+
+
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+#weatherapp{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+body{
+    background-image: url("https://img.freepik.com/free-vector/blue-sky-with-shiny-clouds-background_1017-23279.jpg?w=360");
+background-size: cover;
+
+}
+.con{
+    height: 30vh;
+        display: flex;
+        justify-content: center;
+        gap: 5rem;
+        
+}
+.current{
+    color: white;
+        margin-top: 50px;
+        display: block;
+        text-align: center;
+}
+.info{
+    color: white;
+    margin-top: 50px;
+    display: block;
+   text-align: center;
+}
+#input{
+    text-align: center;
+}
+#lastcheck{
+    
+    color: white;
+        margin-top: 20px;
+        margin-left:50px;
+    text-align: center;
+}
